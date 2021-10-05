@@ -13,5 +13,6 @@ Course Topics
    Don't maximise TOR browser for safety
    https://check.torproject.org - to check used IP address
  
-   If TOR is blocked, bypass
+   If TOR is blocked by ISP, use TOR bridge - node that is publically not available
+   If Deep package filtering is done by ISP,   
    
