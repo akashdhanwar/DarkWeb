@@ -8,3 +8,6 @@ Course Topics
 
    TOR Browser is modified Firefox ESR
    Disable all scripts and forces HTTPS
+   https://www.torproject.org/download/languages - Download link
+   Verify the download for sure by signature using gpg4win using cmd commands
+   
