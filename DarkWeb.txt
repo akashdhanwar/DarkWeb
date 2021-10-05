@@ -6,4 +6,5 @@ Course Topics
    Use https in windows for incoming and outgoing requests from TOR network
    Hence better to use TOR Browser
 
+   TOR Browser is modified Firefox ESR
    
