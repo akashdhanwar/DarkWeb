@@ -7,4 +7,4 @@ Course Topics
    Hence better to use TOR Browser
 
    TOR Browser is modified Firefox ESR
-   
+   Disable all scripts and forces HTTPS
