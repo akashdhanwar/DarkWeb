@@ -14,5 +14,6 @@ Course Topics
    https://check.torproject.org - to check used IP address
  
    If TOR is blocked by ISP, use TOR bridge - node that is publically not available
-   If Deep package filtering is done by ISP,   
+   If Deep package filtering is done by ISP, use pluggable transport - makes traffic normal and not like TOR traffic
+   
    
