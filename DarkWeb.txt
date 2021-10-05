@@ -1,2 +1,4 @@
-1. Course Topics
-   Anonymity, Privacy, Darkweb, Security
+Course Topics
+  Anonymity, Privacy, Darkweb, Security
+
+1. 
