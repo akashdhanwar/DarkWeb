@@ -10,3 +10,8 @@ Course Topics
    Disable all scripts and forces HTTPS
    https://www.torproject.org/download/languages - Download link
    Verify the download for sure by signature using gpg4win using cmd commands available on website
+
+   Don't maximise TOR browser for safety
+   https://check.torproject.org - to check used IP address
+   
+   
