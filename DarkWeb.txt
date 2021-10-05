@@ -2,6 +2,8 @@ Course Topics
   Anonymity, Privacy, Darkweb, Security
 
 1. TOR Browser
-   3 nodes then to the website
-   Or 2 nodes and then to onion service
+   3 nodes then to the website Or 2 nodes and then to onion service
+   Use https in windows for incoming and outgoing requests from TOR network
+   Hence better to use TOR Browser
+
    
