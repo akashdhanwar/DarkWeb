@@ -23,4 +23,5 @@ Course Topics
    A. Never remembers history
    B. Tracking Protection - always
    C. Block pop-up, add-ons and prevent accessibility services
+   D. Block dangerous and deceptive content - both checkbox
    
