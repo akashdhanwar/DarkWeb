@@ -18,3 +18,9 @@ Course Topics
    B. If Deep package filtering is done by ISP, use pluggable transport - makes traffic normal and not like TOR traffic
    C. We can use VPN to hide us from ISP, to bypass censorship and provide privacy, anonymity and encryption prevents from hackers
    
+   Browser Settings-
+   tor browser -> options
+   A. Never remembers history
+   B. Tracking Protection - always
+   C. Block pop-up, add-ons and prevent accessibility services
+   
