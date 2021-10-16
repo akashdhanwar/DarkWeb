@@ -27,3 +27,8 @@ Course Topics
    tor browser -> 🛡️ -> Advanced Security Settings
    E. Standard, Safer and Safest select. https://coveryourtracks.eff.org/ - test browser safety. must be less than 33bits
    
+
+  Introduction to TAILS-
+  
+  
+  
