@@ -16,5 +16,5 @@ Course Topics
    A. If TOR is blocked by ISP, use TOR bridge - first node that is publically not available.  https://bridges.torproject.org/options or mail to bridges@torproject.org or frontdesk@torproject.org
    Go to tor network settings in tor browser, tor is censored and provide the bridge
    B. If Deep package filtering is done by ISP, use pluggable transport - makes traffic normal and not like TOR traffic
-   
+   C. We must use VPN to hide us from ISP
    
