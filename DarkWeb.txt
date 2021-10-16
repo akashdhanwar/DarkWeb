@@ -89,7 +89,15 @@ Course Topics
    https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac  OR in my files it is saved - XMPP HIDDEN SERVICES
    dismail.de is a good one to use
    
-   Lecture 39
+   Pidgen is inbuilt - used for XMPP
+   Add an account in Pidgen as XMPP, domain - dismail.de. Login to dismail.de account
+   Add a buddy
+   Add onion dismail.de service in Pidgen by modifying in Advanced tab. This will not leave tor network and will connect to inside XMPP
+   Enable end-to-end communication by OTR(of the recoed) plugin so that XMPP server may not read our message
+   To enable OTR, go to Pidgen -> login the account -> Tools -> Plugins -> OTR -> check out the checkbox for private message. Then Click Not Private Button in chat
+   Verify Contacts. The Butto is Unverified currently. Click on it and authenticate buddy. Button changes to Private
+   
+   C) FILE SHARING-
    
    
    
