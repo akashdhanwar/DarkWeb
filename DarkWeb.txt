@@ -25,5 +25,5 @@ Course Topics
    C. Block pop-up, add-ons and prevent accessibility services
    D. Block dangerous and deceptive content - both checkbox
    tor browser -> 🛡️ -> Advanced Security Settings
-   E. Standard, Safer and Safest select
+   E. Standard, Safer and Safest select. https://coveryourtracks.eff.org/ - test browser safety. must be less than 33bits
    
