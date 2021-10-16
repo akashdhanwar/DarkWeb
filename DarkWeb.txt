@@ -86,7 +86,9 @@ Course Topics
    Find the image to know.
    
    B) USING INSTANT MESSAGING
-   https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac   - XMPP HIDDEN SERVICES
+   https://gist.github.com/dllud/a46d4a555e31dfeff6ad41dcf20729ac  OR in my files it is saved - XMPP HIDDEN SERVICES
+   dismail.de is a good one to use
+   
    
    
    
