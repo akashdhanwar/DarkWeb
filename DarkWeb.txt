@@ -1,7 +1,7 @@
 Course Topics
   Anonymity, Privacy, Darkweb, Security
 
-1. TOR Browser
+1. TOR BROWSER
    3 nodes then to the website Or 2 nodes and then to onion service
    Use https in windows for incoming and outgoing requests from TOR network
    Hence better to use TOR Browser
@@ -28,7 +28,7 @@ Course Topics
    E. Standard, Safer and Safest select. https://coveryourtracks.eff.org/ - test browser safety. must be less than 33bits
    
 
-2. Introduction to TAILS-
+2. INTRODUCTION TO TAILS-
    Download links
    https://tails.boum.org/install/win/usb-download/index.en.html
    https://www.balena.io/etcher/
@@ -41,6 +41,9 @@ Course Topics
    A Persistent Folder will be created in Places
    Tor browser will have access to only Tor Browser and Tor Browser Persistent folders
    Use Unsafe browser to connect to captive portal that require authentication to connect to internet. After Authenticating to cafe page, We can switch to Tor Browser
+   Tails forces all network to go through tor network, hence we need to set up VPN to use it. So redirect the firewall to VPN
+   
+3. ENTRY POINTS DARK NET - 
    
    
    
