@@ -43,8 +43,33 @@ Course Topics
    Use Unsafe browser to connect to captive portal that require authentication to connect to internet. After Authenticating to cafe page, We can switch to Tor Browser
    Tails forces all network to go through tor network, hence we need to set up VPN to use it. So redirect the firewall to VPN
    
-3. ENTRY POINTS DARK NET - 
+3. ENTRY POINTS DARK NET AND DEEP NET - 
+   Copy paste URL instead of clicking
+    
+   Search Engines:
+   duckduckgo.com - https://3g2upl4pq6kufc4m.onion/
+   NotEvil - hss3uro2hsxfogfq.onion/      (BEST)
+   torch - xmh57jrzrnw6insl.onion/        (ADS ISSUE)
+   ahmia - msydqstlz2kzerdg.onion         (RESULTS QUALITY NOT GOOD)
    
+   Listings:
+   hidden wiki http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page   - Most broken and scam liks
+   dark.fail darkfailllnkf4vf.onion - PGP verifies links                - Less Scam
+   deep web subredit: https://www.reddit.com/r/deepweb/                 - Like reddit
+   onions sub reddit - https://www.reddit.com/r/onions/                 - Like reddit
+
+   Others:
+   hidden answers answerstedhctbek.onion                      
+   dread - reddit http://dreadditevelidot.onion/
+   privacy sub reddit - https://www.reddit.com/r/privacy/
+   
+   USING EMAILS-
+   
+   
+   
+
+
+
    
    
    
