@@ -34,7 +34,16 @@ Course Topics
    https://www.balena.io/etcher/
    Flash it in a USB
    
+   Open Tails
+   We can add a bridge from additional settings -> network configuration in login screen in Tails. Configure it, save the bridge.
+   Ctrl+Alt+down/up or by Windows button - To switch Workspaces
+   Use Persistence on Tails to save files and data. Applications - > Tails -> Persistence Storage. Turn Network Settings, Tor Browser,   Bitcoin Client, Personal Data, GnupG, Thunderbird and Pidgen
+   A Persistent Folder will be created in Places
+   Tor browser will have access to only Tor Browser and Tor Browser Persistent folders
+   Use Unsafe browser to connect to captive portal that require authentication to connect to internet. After Authenticating to cafe page, We can switch to Tor Browser
    
    
-  
+   
+   
+   
   
