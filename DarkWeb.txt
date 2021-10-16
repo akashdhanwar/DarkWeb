@@ -29,6 +29,11 @@ Course Topics
    
 
 2. Introduction to TAILS-
+   Download links
+   https://tails.boum.org/install/win/usb-download/index.en.html
+   https://www.balena.io/etcher/
+   Flash it in a USB
+   
    
    
   
