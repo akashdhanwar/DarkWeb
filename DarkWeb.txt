@@ -98,8 +98,18 @@ Course Topics
    Verify Contacts. The Butto is Unverified currently. Click on it and authenticate buddy. Button changes to Private
    
    C) FILE SHARING-
+   Metadata reveals many info about file, so remove metadata
+   Right click, clear metadata in Tails
+   send.firefox.com - creates a key at client side which can be seen in url, but link is not safe. Works in standard setting since it use javascript
+   Hence we should use peer-to-peer transfer an end-to-end encryption. Use tool OnionShare for this. It will create a onion service on my computer so that others can use it
+   Right click on file -> Share via OnionShare. Share the link with other person
+   Also, Remove files securely. Files are not completely deleted on deleting until overwritten
+   Go to file -> Right click -> move to trash. Delete from  trash. But we should Wipe it OR go to folder -> right click and Wipe (Only for Harddisk)
+   For SSD and USB, format and wipe it. 
+   Applications -> Utilities -> Disk utilities -> Format by Overwrite data and we can encrypt it by providing phrase. The Drive will be encrypted
    
    
+   LECTURE 47
    
    
    
