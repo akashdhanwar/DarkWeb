@@ -108,8 +108,17 @@ Course Topics
    For SSD and USB, format and wipe it. 
    Applications -> Utilities -> Disk utilities -> Format by Overwrite data and we can encrypt it by providing phrase. The Drive will be encrypted
    
-   
-   LECTURE 47
+   D) ENCRYPTION-
+   Using PGP(Pretty Good Encryption) - Encrypts Email, Text or Files. Unbroken. Asymmetric approach
+   Symmetric Encryption - same key used for encrypt and decrypt
+   Asymmetric Encryption - different keys are used. Reciever generate both keys, send public key to the sender and keeps the private key
+   Creating keys - click on clipboard on top right and select manage keys OR in applications > Utilities > Password and keys > gnupg keys > Click on + sign > PGP key > name and email(permanent) > Advanced RSA(Optional) > Set passphrase
+   Sharing Keys - Export only public key. Password and Keys > File > Export to Tor Browser. We can change format of file from pgp to asc to view content. Then we can share it in any way
+   Importing keys - Password and Keys > File > Import 
+
+
+
+   LECTURE 51
    
    
    
