@@ -115,10 +115,35 @@ Course Topics
    Creating keys - click on clipboard on top right and select manage keys OR in applications > Utilities > Password and keys > gnupg keys > Click on + sign > PGP key > name and email(permanent) > Advanced RSA(Optional) > Set passphrase
    Sharing Keys - Export only public key. Password and Keys > File > Export to Tor Browser. We can change format of file from pgp to asc to view content. Then we can share it in any way
    Importing keys - Password and Keys > File > Import 
+   Adding the key to message - create a file, select text and click on clipboard on top right. Sign/Encrypt with public key, select the key. If we also want to see the code after encryption, then add your own key and select that also
+                               After encrypting paste the encrypted text by ctrl+v
+   Decryption - Copy the text, click on clipboard on top right and decrypt using passphrase
+
+   Digital Signatures - The problem with encryption is that anyone can send the message using public key pretending to be someone
+   When the sender is sending message using recievers public key, he also attaches his own private key as a signature, Reciever will verify signature by senders public key
+   Signing message and Verifying signature - Select private key for signing from dropdown. Check if signature is good signature on recievers end.
+   
+   Signing Files, Verify and Decrypt Files - Ex- image. Right click and encrypt.
+   We can also create a signature separately and verify as we verified tor browser (.sig file). Send both files, normal file and sig
+   On Recievers end right click .sig and verify signature
+
+   Using key servers - For sharing keys. Dont upload with personal information
+   Go to Passwork and keys > Edit > Preferences > publish keys to. Then go to Remote > Sync and Publish keys. Reciever will go to Remote > Find remote keys. search by anything like email, then import
+   Note that confirm that the fingerprint and id belongs to correct person by email
+
+
+   E) CRYPTOCURRENCIES-
+   Used for Send/Recieve money anonymously
+   Create a crypto wallet, sign coin with his private key and add a public key also to be identified
+   Then Sender will send the message to cryptocurrency network(many computers called miners/blockchain)
+
+   Bitcoin - 
+   Create a wallet i.e. a software Ex- electrum. https://electrum.org/#home Download the linux image and signature. Also scoll down and download developers public key by right click and save link as
 
 
 
-   LECTURE 51
+
+   LECTURE 58  5:00
    
    
    
